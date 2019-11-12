@@ -7,12 +7,12 @@ Run with:<br />
 ./a.out<br />
 
 # Sample input:
-Following these steps:
- choose option 3 (bget an error message!)
- choose option 4 (get an error message)
- choose option 1 and enter 6 (6 legs for the walk)
- choose option 3 (again, error!)
- choose option 2 and enter anxiety of 3 and day 5
- choose option 3 and enter 5 hrs sleep
- choose option 4 and enter 250 lbs, 72 inches, and 79.7 F.
- quit
+Following these steps:<br />
+ choose option 3 (bget an error message!)<br />
+ choose option 4 (get an error message)<br />
+ choose option 1 and enter 6 (6 legs for the walk)<br />
+ choose option 3 (again, error!)<br />
+ choose option 2 and enter anxiety of 3 and day 5<br />
+ choose option 3 and enter 5 hrs sleep<br />
+ choose option 4 and enter 250 lbs, 72 inches, and 79.7 F.<br />
+ quit<br />
