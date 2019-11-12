@@ -1,5 +1,6 @@
 # health-o-matic
 System to health facilitate health management. Inputs include: hours of sleep, distance walked, days in the week which results in specific health reccomendations. <br />
+Please read the pdf for further details. <br />
 
 Compile with:<br />
 g++  g++ health-o-matic.cpp<br />
