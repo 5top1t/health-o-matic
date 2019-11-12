@@ -1,10 +1,10 @@
 # health-o-matic
-System to health facilitate health management.
+System to health facilitate health management.<br />
 
-Compile with:
-g++  g++ health-o-matic.cpp
-Run with:
-./a.out
+Compile with:<br />
+g++  g++ health-o-matic.cpp<br />
+Run with:<br />
+./a.out<br />
 
 # Sample input:
 Following these steps:
